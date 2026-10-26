@@ -1,6 +1,6 @@
 # Lock versions of pip packages
-certifi==2022.12.7
+certifi==2026.10.19
 chardet==3.0.4
-idna==2.10
-urllib3==1.26.7
+idna==3.15
+urllib3==2.8.0
 # Requests used by this lambda
